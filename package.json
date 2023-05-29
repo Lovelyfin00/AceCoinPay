@@ -1,5 +1,6 @@
 {
   "name": "acecoin",
+  "homepage": "https://github.com/Lovelyfin00/AceCoinPay.git",
   "private": true,
   "version": "0.0.0",
   "type": "module",
